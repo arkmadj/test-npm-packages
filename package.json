@@ -1,10 +1,11 @@
 {
-  "name": "quasar2-storybook-boilerplate",
+  "name": "b54-components",
   "version": "0.0.1",
-  "description": "quasar2-storybook-boilerplate",
-  "productName": "Quasar2 Storybook Boilerplate",
-  "author": "sungyong<sungyong@gmail.com>",
-  "private": true,
+  "description": "b54-components",
+  "productName": "b54 components",
+  "author": "ahmadjinadu@gmail.com",
+  "private": false,
+  "repository": "",
   "scripts": {
     "prepare": "husky install",
     "lint": "eslint --ext .js,.ts,.vue ./",
